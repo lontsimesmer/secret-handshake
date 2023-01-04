@@ -1,7 +1,7 @@
 # secret-handshake project
 This project is all about converting a number into the appropriate series of events which are: wink, double blink, close your eyes and jump with these numbers first changed to binary before application.
 ![secret](assets/image/secret.png)
-### Built with
+## Built with
 - HTML
 - CSS
 - JavaScript
