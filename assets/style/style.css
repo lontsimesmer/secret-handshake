@@ -51,7 +51,7 @@ input {
 
 .shake {
   background: #f0ffff;
-  font-size: 18px;
+  font-size: 15px;
   margin-left: 20%;
   margin-top: 25px;
   padding: 50px;
@@ -79,4 +79,33 @@ input {
   cursor: pointer;
   font-size: 15px;
   padding: 10px 15px;
+}
+
+@media screen and (max-width: 768px) {
+  h1 {
+    font-size: 20px;
+  }
+
+  .emoji {
+    font-size: 30px;
+  }
+
+  input {
+    font-size: 15px;
+    width: 60%;
+  }
+
+  .btn {
+    margin-left: 5%;
+  }
+
+  .btn1 {
+    font-size: 15px;
+    padding: 5px 10px;
+  }
+
+  .btn2 {
+    font-size: 15px;
+    padding: 5px 10px;
+  }
 }
