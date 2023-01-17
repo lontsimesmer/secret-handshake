@@ -36,12 +36,12 @@ h1 {
   display: flex;
   font-size: 50px;
   justify-content: center;
-  margin-top: -25px;
+  margin-top: -26px;
 }
 
 input {
   border: 1px solid #000;
-  font-size: 15px;
+  font-size: 16px;
   margin-left: 20%;
   margin-top: 10px;
   opacity: 0.8;
